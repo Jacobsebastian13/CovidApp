@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/activity_view_volunteer.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/add_healthstatus.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/home_ashaworker.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/near_patient.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/send_emergency.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/send_foodrqst.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/sendmedicine_request.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/user_home.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/view_asha_worker.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/view_emergency.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/view_quarantinefamily.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/viewapproved_medrqst.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/viewupdate_health.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid/app/src/main/res/layout/volunteerhome.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
